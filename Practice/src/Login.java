@@ -18,7 +18,7 @@ public class Login {
 		URI url = new URI("https://www.google.com");
 		java.awt.Desktop.getDesktop().browse(url);
 		
-		
+		System.out.println("hi");
 		
 		//WebDriver driver = new InternetExplorerDriver();
 		//String url = "https://www.google.com";
